@@ -1,0 +1,37 @@
+@import url(https://fonts.google.com/specimen/Barlow+Semi+Condensed);
+
+:root{
+    --white-light:#ffffff;
+    --score-text: hsl(229, 64%, 46%);
+    --dark-text:hsl(229, 25%, 31%);
+    --header-outline: hsl(217, 16%, 45%);
+    --bg-grad-One: hsl(214, 47%, 23%);
+    --bg-grad-Two:  hsl(237, 49%, 15%);
+    --scissors-grad-one:hsl(39, 89%, 49%);
+    --scissors-grad-two: hsl(40, 84%, 53%);
+    --paper-grad-one:hsl(230, 89%, 62%);
+    --paper-grad-two:hsl(230, 89%, 65%);
+    --rock-grad-one:hsl(349, 71%, 52%);
+    --rock-grad-two: hsl(349, 70%, 56%);
+    --Lizard--grad-one: hsl(261, 73%, 60%) ;
+    --lizard-grad-two:hsl(261, 72%, 63%);
+    --cyan-grad-one:hsl(189, 59%, 53%);
+    --cyan-grad-two:hsl(189, 58%, 57%);
+    --shadow-light: #00000026;
+    --shadow-med:#0000004d;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+    margin-top: 1.5rem;
+  }
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+  }
